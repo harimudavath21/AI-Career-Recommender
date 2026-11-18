@@ -1,0 +1,12 @@
+
+streamlit
+pandas
+numpy
+scikit-learn
+pymupdf
+python-docx
+spacy
+sentence-transformers
+plotly
+mysql-connector-python
+python-dotenv

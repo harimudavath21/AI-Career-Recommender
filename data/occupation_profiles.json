@@ -1,0 +1,1019 @@
+{
+  "dataset_name": "CareerCompass Custom Starter Occupation Catalogue",
+  "dataset_version": "1.0",
+  "dataset_source": "Assistant-created illustrative profiles; not official ESCO data",
+  "note": "These are starter profiles for development and testing. They are not an official ESCO export and should not be represented as official occupational standards.",
+  "occupations": {
+    "Data Analyst": {
+      "category": "Data & Analytics",
+      "skills": {
+        "SQL": 1.0,
+        "Excel": 0.94,
+        "Power BI": 0.88,
+        "Python": 0.82,
+        "Statistics": 0.76,
+        "Pandas": 0.7,
+        "Data Visualization": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Data Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Business Intelligence Analyst": {
+      "category": "Data & Analytics",
+      "skills": {
+        "SQL": 1.0,
+        "Power BI": 0.94,
+        "Excel": 0.88,
+        "Data Visualization": 0.82,
+        "Statistics": 0.76,
+        "Tableau": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Business Intelligence Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Data Scientist": {
+      "category": "Data & Analytics",
+      "skills": {
+        "Python": 1.0,
+        "SQL": 0.94,
+        "Machine Learning": 0.88,
+        "Statistics": 0.82,
+        "Pandas": 0.76,
+        "NumPy": 0.7,
+        "Scikit-learn": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Data Scientist role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Machine Learning Engineer": {
+      "category": "Artificial Intelligence",
+      "skills": {
+        "Python": 1.0,
+        "Machine Learning": 0.94,
+        "Deep Learning": 0.88,
+        "TensorFlow": 0.82,
+        "PyTorch": 0.76,
+        "Scikit-learn": 0.7,
+        "MLOps": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Machine Learning Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "AI Engineer": {
+      "category": "Artificial Intelligence",
+      "skills": {
+        "Python": 1.0,
+        "Machine Learning": 0.94,
+        "Generative AI": 0.88,
+        "NLP": 0.82,
+        "Deep Learning": 0.76,
+        "LangChain": 0.7,
+        "LLMs": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the AI Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Generative AI Engineer": {
+      "category": "Artificial Intelligence",
+      "skills": {
+        "Python": 1.0,
+        "Generative AI": 0.94,
+        "LLMs": 0.88,
+        "Prompt Engineering": 0.82,
+        "LangChain": 0.76,
+        "RAG": 0.7,
+        "Vector Databases": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Generative AI Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "NLP Engineer": {
+      "category": "Artificial Intelligence",
+      "skills": {
+        "Python": 1.0,
+        "NLP": 0.94,
+        "Machine Learning": 0.88,
+        "Deep Learning": 0.82,
+        "PyTorch": 0.76,
+        "TensorFlow": 0.7,
+        "Transformers": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the NLP Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Computer Vision Engineer": {
+      "category": "Artificial Intelligence",
+      "skills": {
+        "Python": 1.0,
+        "Computer Vision": 0.94,
+        "OpenCV": 0.88,
+        "Deep Learning": 0.82,
+        "PyTorch": 0.76,
+        "TensorFlow": 0.7,
+        "Image Processing": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Computer Vision Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "AI Research Assistant": {
+      "category": "Artificial Intelligence",
+      "skills": {
+        "Python": 1.0,
+        "Statistics": 0.94,
+        "Machine Learning": 0.88,
+        "Research": 0.82,
+        "Deep Learning": 0.76,
+        "PyTorch": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the AI Research Assistant role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Data Engineer": {
+      "category": "Data Engineering",
+      "skills": {
+        "Python": 1.0,
+        "SQL": 0.94,
+        "ETL": 0.88,
+        "Data Warehousing": 0.82,
+        "Apache Spark": 0.76,
+        "Airflow": 0.7,
+        "Cloud": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Data Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Big Data Engineer": {
+      "category": "Data Engineering",
+      "skills": {
+        "Python": 1.0,
+        "SQL": 0.94,
+        "Apache Spark": 0.88,
+        "Hadoop": 0.82,
+        "Kafka": 0.76,
+        "ETL": 0.7,
+        "Distributed Systems": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Big Data Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Analytics Engineer": {
+      "category": "Data Engineering",
+      "skills": {
+        "SQL": 1.0,
+        "dbt": 0.94,
+        "Data Modeling": 0.88,
+        "Data Warehousing": 0.82,
+        "Python": 0.76,
+        "Git": 0.7,
+        "ETL": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Analytics Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Database Administrator": {
+      "category": "Data & Databases",
+      "skills": {
+        "SQL": 1.0,
+        "MySQL": 0.94,
+        "Database Management": 0.88,
+        "Backup and Recovery": 0.82,
+        "Performance Tuning": 0.76,
+        "Linux": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Database Administrator role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "SQL Developer": {
+      "category": "Data & Databases",
+      "skills": {
+        "SQL": 1.0,
+        "MySQL": 0.94,
+        "PostgreSQL": 0.88,
+        "Database Design": 0.82,
+        "Stored Procedures": 0.76,
+        "Query Optimization": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the SQL Developer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Cloud Engineer": {
+      "category": "Cloud & Infrastructure",
+      "skills": {
+        "AWS": 1.0,
+        "Azure": 0.94,
+        "Google Cloud": 0.88,
+        "Linux": 0.82,
+        "Docker": 0.76,
+        "Networking": 0.7,
+        "Infrastructure as Code": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Cloud Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Cloud Data Engineer": {
+      "category": "Cloud & Infrastructure",
+      "skills": {
+        "Python": 1.0,
+        "SQL": 0.94,
+        "AWS": 0.88,
+        "Azure": 0.82,
+        "ETL": 0.76,
+        "Data Warehousing": 0.7,
+        "Apache Spark": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Cloud Data Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "DevOps Engineer": {
+      "category": "Cloud & Infrastructure",
+      "skills": {
+        "Linux": 1.0,
+        "Docker": 0.94,
+        "Kubernetes": 0.88,
+        "CI/CD": 0.82,
+        "Git": 0.76,
+        "Jenkins": 0.7,
+        "Cloud": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the DevOps Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Site Reliability Engineer": {
+      "category": "Cloud & Infrastructure",
+      "skills": {
+        "Linux": 1.0,
+        "Python": 0.94,
+        "Monitoring": 0.88,
+        "Kubernetes": 0.82,
+        "Docker": 0.76,
+        "Networking": 0.7,
+        "Incident Management": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Site Reliability Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Cybersecurity Analyst": {
+      "category": "Cybersecurity",
+      "skills": {
+        "Cybersecurity": 1.0,
+        "Networking": 0.94,
+        "Linux": 0.88,
+        "SIEM": 0.82,
+        "Incident Response": 0.76,
+        "Risk Assessment": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Cybersecurity Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Penetration Tester": {
+      "category": "Cybersecurity",
+      "skills": {
+        "Cybersecurity": 1.0,
+        "Networking": 0.94,
+        "Linux": 0.88,
+        "Vulnerability Assessment": 0.82,
+        "Penetration Testing": 0.76,
+        "Python": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Penetration Tester role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Security Engineer": {
+      "category": "Cybersecurity",
+      "skills": {
+        "Cybersecurity": 1.0,
+        "Cloud Security": 0.94,
+        "Networking": 0.88,
+        "Linux": 0.82,
+        "Identity and Access Management": 0.76,
+        "Python": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Security Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Python Developer": {
+      "category": "Software Development",
+      "skills": {
+        "Python": 1.0,
+        "SQL": 0.94,
+        "Git": 0.88,
+        "REST API": 0.82,
+        "Flask": 0.76,
+        "Django": 0.7,
+        "Object-Oriented Programming": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Python Developer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Backend Developer": {
+      "category": "Software Development",
+      "skills": {
+        "Python": 1.0,
+        "Java": 0.94,
+        "SQL": 0.88,
+        "REST API": 0.82,
+        "Django": 0.76,
+        "Flask": 0.7,
+        "Git": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Backend Developer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Frontend Developer": {
+      "category": "Software Development",
+      "skills": {
+        "HTML": 1.0,
+        "CSS": 0.94,
+        "JavaScript": 0.88,
+        "React": 0.82,
+        "TypeScript": 0.76,
+        "Git": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Frontend Developer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Full Stack Developer": {
+      "category": "Software Development",
+      "skills": {
+        "HTML": 1.0,
+        "CSS": 0.94,
+        "JavaScript": 0.88,
+        "React": 0.82,
+        "Python": 0.76,
+        "Node.js": 0.7,
+        "SQL": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Full Stack Developer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Java Developer": {
+      "category": "Software Development",
+      "skills": {
+        "Java": 1.0,
+        "Spring Boot": 0.94,
+        "SQL": 0.88,
+        "REST API": 0.82,
+        "Maven": 0.76,
+        "Git": 0.7,
+        "Object-Oriented Programming": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Java Developer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Software Engineer": {
+      "category": "Software Development",
+      "skills": {
+        "Programming": 1.0,
+        "Data Structures": 0.94,
+        "Algorithms": 0.88,
+        "Git": 0.82,
+        "SQL": 0.76,
+        "Software Testing": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Software Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Mobile App Developer": {
+      "category": "Software Development",
+      "skills": {
+        "Kotlin": 1.0,
+        "Java": 0.94,
+        "Android": 0.88,
+        "Flutter": 0.82,
+        "Dart": 0.76,
+        "REST API": 0.7,
+        "Git": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Mobile App Developer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Game Developer": {
+      "category": "Software Development",
+      "skills": {
+        "C++": 1.0,
+        "C#": 0.94,
+        "Unity": 0.88,
+        "Unreal Engine": 0.82,
+        "Game Physics": 0.76,
+        "3D Mathematics": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Game Developer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "QA Engineer": {
+      "category": "Software Quality",
+      "skills": {
+        "Software Testing": 1.0,
+        "Test Cases": 0.94,
+        "Bug Tracking": 0.88,
+        "SQL": 0.82,
+        "API Testing": 0.76,
+        "Agile": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the QA Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Automation Test Engineer": {
+      "category": "Software Quality",
+      "skills": {
+        "Python": 1.0,
+        "Selenium": 0.94,
+        "Automation Testing": 0.88,
+        "API Testing": 0.82,
+        "Pytest": 0.76,
+        "Git": 0.7,
+        "CI/CD": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Automation Test Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Business Analyst": {
+      "category": "Business & Management",
+      "skills": {
+        "Requirements Analysis": 1.0,
+        "SQL": 0.94,
+        "Excel": 0.88,
+        "Communication": 0.82,
+        "Process Modeling": 0.76,
+        "Stakeholder Management": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Business Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Product Analyst": {
+      "category": "Business & Management",
+      "skills": {
+        "SQL": 1.0,
+        "Excel": 0.94,
+        "Statistics": 0.88,
+        "Product Analytics": 0.82,
+        "A/B Testing": 0.76,
+        "Data Visualization": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Product Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Product Manager": {
+      "category": "Business & Management",
+      "skills": {
+        "Product Strategy": 1.0,
+        "Roadmapping": 0.94,
+        "Agile": 0.88,
+        "Communication": 0.82,
+        "Market Research": 0.76,
+        "Stakeholder Management": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Product Manager role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Project Coordinator": {
+      "category": "Business & Management",
+      "skills": {
+        "Project Management": 1.0,
+        "Communication": 0.94,
+        "Scheduling": 0.88,
+        "Documentation": 0.82,
+        "Risk Management": 0.76,
+        "Excel": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Project Coordinator role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Digital Marketing Analyst": {
+      "category": "Marketing",
+      "skills": {
+        "Digital Marketing": 1.0,
+        "Google Analytics": 0.94,
+        "SEO": 0.88,
+        "Excel": 0.82,
+        "Data Analysis": 0.76,
+        "Campaign Management": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Digital Marketing Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "SEO Specialist": {
+      "category": "Marketing",
+      "skills": {
+        "SEO": 1.0,
+        "Keyword Research": 0.94,
+        "Google Analytics": 0.88,
+        "Content Strategy": 0.82,
+        "Technical SEO": 0.76
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the SEO Specialist role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Financial Analyst": {
+      "category": "Finance",
+      "skills": {
+        "Excel": 1.0,
+        "Financial Modeling": 0.94,
+        "Financial Reporting": 0.88,
+        "Accounting": 0.82,
+        "Data Analysis": 0.76,
+        "Forecasting": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Financial Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Risk Analyst": {
+      "category": "Finance",
+      "skills": {
+        "Statistics": 1.0,
+        "Excel": 0.94,
+        "SQL": 0.88,
+        "Risk Assessment": 0.82,
+        "Financial Analysis": 0.76,
+        "Python": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Risk Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Operations Analyst": {
+      "category": "Operations",
+      "skills": {
+        "Excel": 1.0,
+        "SQL": 0.94,
+        "Process Improvement": 0.88,
+        "Data Analysis": 0.82,
+        "Reporting": 0.76,
+        "Statistics": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Operations Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Supply Chain Analyst": {
+      "category": "Operations",
+      "skills": {
+        "Excel": 1.0,
+        "SQL": 0.94,
+        "Supply Chain Management": 0.88,
+        "Forecasting": 0.82,
+        "Inventory Management": 0.76,
+        "Data Analysis": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Supply Chain Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "HR Analyst": {
+      "category": "Human Resources",
+      "skills": {
+        "Excel": 1.0,
+        "Data Analysis": 0.94,
+        "HR Analytics": 0.88,
+        "Statistics": 0.82,
+        "Reporting": 0.76,
+        "Communication": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the HR Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Recruitment Specialist": {
+      "category": "Human Resources",
+      "skills": {
+        "Recruitment": 1.0,
+        "Interviewing": 0.94,
+        "Communication": 0.88,
+        "Applicant Tracking Systems": 0.82,
+        "Sourcing": 0.76
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Recruitment Specialist role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "UX Designer": {
+      "category": "Design",
+      "skills": {
+        "UX Research": 1.0,
+        "Wireframing": 0.94,
+        "Prototyping": 0.88,
+        "Figma": 0.82,
+        "Usability Testing": 0.76,
+        "Design Thinking": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the UX Designer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "UI Designer": {
+      "category": "Design",
+      "skills": {
+        "UI Design": 1.0,
+        "Figma": 0.94,
+        "Typography": 0.88,
+        "Color Theory": 0.82,
+        "Prototyping": 0.76,
+        "Design Systems": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the UI Designer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Graphic Designer": {
+      "category": "Design",
+      "skills": {
+        "Graphic Design": 1.0,
+        "Adobe Photoshop": 0.94,
+        "Adobe Illustrator": 0.88,
+        "Typography": 0.82,
+        "Branding": 0.76
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Graphic Designer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Technical Writer": {
+      "category": "Content & Communication",
+      "skills": {
+        "Technical Writing": 1.0,
+        "Documentation": 0.94,
+        "Research": 0.88,
+        "Communication": 0.82,
+        "Markdown": 0.76,
+        "Editing": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Technical Writer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Research Analyst": {
+      "category": "Research",
+      "skills": {
+        "Research": 1.0,
+        "Statistics": 0.94,
+        "Data Analysis": 0.88,
+        "Excel": 0.82,
+        "Report Writing": 0.76,
+        "Critical Thinking": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Research Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Statistician": {
+      "category": "Research",
+      "skills": {
+        "Statistics": 1.0,
+        "Probability": 0.94,
+        "R": 0.88,
+        "Python": 0.82,
+        "Experimental Design": 0.76,
+        "Data Analysis": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Statistician role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Network Engineer": {
+      "category": "IT Infrastructure",
+      "skills": {
+        "Networking": 1.0,
+        "TCP/IP": 0.94,
+        "Routing": 0.88,
+        "Switching": 0.82,
+        "Linux": 0.76,
+        "Network Security": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Network Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Systems Administrator": {
+      "category": "IT Infrastructure",
+      "skills": {
+        "Linux": 1.0,
+        "Windows Server": 0.94,
+        "Networking": 0.88,
+        "Active Directory": 0.82,
+        "Scripting": 0.76,
+        "Backup and Recovery": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Systems Administrator role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "IT Support Specialist": {
+      "category": "IT Support",
+      "skills": {
+        "Troubleshooting": 1.0,
+        "Windows": 0.94,
+        "Networking": 0.88,
+        "Hardware": 0.82,
+        "Customer Support": 0.76,
+        "Ticketing Systems": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the IT Support Specialist role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Robotics Engineer": {
+      "category": "Engineering",
+      "skills": {
+        "Python": 1.0,
+        "C++": 0.94,
+        "Robotics": 0.88,
+        "Control Systems": 0.82,
+        "ROS": 0.76,
+        "Computer Vision": 0.7,
+        "Electronics": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Robotics Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "IoT Developer": {
+      "category": "Engineering",
+      "skills": {
+        "Python": 1.0,
+        "C": 0.94,
+        "Embedded Systems": 0.88,
+        "IoT": 0.82,
+        "MQTT": 0.76,
+        "Microcontrollers": 0.7,
+        "Networking": 0.64
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the IoT Developer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Electrical Engineer": {
+      "category": "Engineering",
+      "skills": {
+        "Circuit Design": 1.0,
+        "Electrical Systems": 0.94,
+        "MATLAB": 0.88,
+        "AutoCAD": 0.82,
+        "Testing": 0.76,
+        "Power Systems": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Electrical Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Mechanical Design Engineer": {
+      "category": "Engineering",
+      "skills": {
+        "AutoCAD": 1.0,
+        "SolidWorks": 0.94,
+        "Mechanical Design": 0.88,
+        "Engineering Drawing": 0.82,
+        "3D Modeling": 0.76,
+        "GD&T": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Mechanical Design Engineer role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Healthcare Data Analyst": {
+      "category": "Healthcare & Life Sciences",
+      "skills": {
+        "SQL": 1.0,
+        "Python": 0.94,
+        "Statistics": 0.88,
+        "Data Visualization": 0.82,
+        "Healthcare Analytics": 0.76,
+        "Excel": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Healthcare Data Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Bioinformatics Analyst": {
+      "category": "Healthcare & Life Sciences",
+      "skills": {
+        "Python": 1.0,
+        "R": 0.94,
+        "Statistics": 0.88,
+        "Genomics": 0.82,
+        "Biology": 0.76,
+        "Data Analysis": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Bioinformatics Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Environmental Data Analyst": {
+      "category": "Environment",
+      "skills": {
+        "Python": 1.0,
+        "GIS": 0.94,
+        "Statistics": 0.88,
+        "Data Analysis": 0.82,
+        "Remote Sensing": 0.76,
+        "Data Visualization": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Environmental Data Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "GIS Analyst": {
+      "category": "Geospatial",
+      "skills": {
+        "GIS": 1.0,
+        "QGIS": 0.94,
+        "ArcGIS": 0.88,
+        "Spatial Analysis": 0.82,
+        "Remote Sensing": 0.76,
+        "Python": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the GIS Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "E-commerce Analyst": {
+      "category": "Business & Analytics",
+      "skills": {
+        "SQL": 1.0,
+        "Excel": 0.94,
+        "Google Analytics": 0.88,
+        "Data Visualization": 0.82,
+        "A/B Testing": 0.76,
+        "Customer Analytics": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the E-commerce Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    },
+    "Customer Success Analyst": {
+      "category": "Customer Operations",
+      "skills": {
+        "Excel": 1.0,
+        "CRM": 0.94,
+        "Data Analysis": 0.88,
+        "Communication": 0.82,
+        "Reporting": 0.76,
+        "Problem Solving": 0.7
+      },
+      "projects": [],
+      "education": [],
+      "description": "Custom starter profile for the Customer Success Analyst role. Skills are indicative and should be refined against reliable occupational data and real job descriptions.",
+      "uri": "",
+      "alternate_labels": []
+    }
+  }
+}
